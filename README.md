@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Juan Pablo Castrillon Arboleda
  
   
-Soy ingiero mecatrónico con especialización en vvisión artificial, Con diplomado de IoT en cisco 
+Soy ingiero mecatrónico con especialización en visión artificial, Con diplomado de IoT en cisco 
 
  
 - 🚀 Construyendo: mi portfolio (en proceso)
